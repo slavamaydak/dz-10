@@ -1,0 +1,15 @@
+.block {
+    background-color: rgba(13,186,75,255) ;
+    width: 330px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    border-radius: 3px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; ;
+}
+
+.f {
+   width: 40px;
+}
